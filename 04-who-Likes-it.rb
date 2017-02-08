@@ -33,6 +33,8 @@ end
 
 end
 
+# test
+
 # Calling the method
 p likes(['Alex', 'Jacob', 'Mark', 'Max'])
 
